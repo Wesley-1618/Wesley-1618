@@ -20,6 +20,7 @@
 ##
 
 <div>
+  <br>
   <a href="mailto:wesleyisilv@gmail.com">
     <img height="30" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
