@@ -24,11 +24,7 @@
     <img height="30" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
-<br>
-
 ##
-
 <div>
   <img height="130" width="100%" src="https://media4.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47z98bo28gnmihkgvena3xhs0fcm1d1l9z2eqkubq3&rid=giphy.gif&ct=g">
 </div>
