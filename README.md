@@ -8,6 +8,10 @@
   <br><br>
 </div>
 
+<div align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-1618&layout=compact&theme=blue-green">
+</div>
+
 <div style="display : inline_block" align="center"><br>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
