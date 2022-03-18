@@ -14,8 +14,6 @@
 
 <p align="center"><br>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  &nbsp;&nbsp;&nbsp;  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  &nbsp;&nbsp;&nbsp;  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </p>
 
 ##
