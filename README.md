@@ -30,6 +30,6 @@
 
 ##
 <div>
-  <img height="130" width="680" src="https://media4.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47z98bo28gnmihkgvena3xhs0fcm1d1l9z2eqkubq3&rid=giphy.gif&ct=g">
+  <img height="130" width="880" src="https://media4.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47z98bo28gnmihkgvena3xhs0fcm1d1l9z2eqkubq3&rid=giphy.gif&ct=g">
 </div>
 
