@@ -4,7 +4,7 @@
   <br>
 - 📫 Entre em contato via email : wesleyisilv@gmail.com
   <br>
-- 🎓 Formando-se em Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
   <br><br>
 </div>
 
