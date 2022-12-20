@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Wesley Oliveira 👋
 <div align="left">
-- 🌱 Estou estudando JavaScript
+- 🌱 Estou estudando JavaScript e Java
   <br>
 - 📫 Entre em contato via email : wesleyisilv@gmail.com
   <br>
