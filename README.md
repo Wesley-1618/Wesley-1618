@@ -13,7 +13,7 @@
 </div>
 
 <p align="center"><br>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
 </p>
 
 ##
@@ -30,6 +30,6 @@
 
 ##
 <div>
-<!--   <img height="130" width="840" src="https://media4.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47z98bo28gnmihkgvena3xhs0fcm1d1l9z2eqkubq3&rid=giphy.gif&ct=g"> -->
+  <img height="130" width="840" src="https://media4.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47z98bo28gnmihkgvena3xhs0fcm1d1l9z2eqkubq3&rid=giphy.gif&ct=g">
 </div>
 
